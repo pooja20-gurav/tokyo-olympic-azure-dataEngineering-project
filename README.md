@@ -139,6 +139,8 @@ By following these subpoints, you systematically create, configure, and manage t
 
 - Write a SQL script to Explore Data: Use SQL to check out the data and create reports with PowerBI if needed.
 
+  can refer this link : https://raw.githubusercontent.com/pooja20-gurav/tokyo-olympic-azure-dataEngineering-project/main/SQL%20script%202.sql
+
 
 ![SQL script 2](https://github.com/pooja20-gurav/tokyo-olympic-azure-dataEngineering-project/assets/81917801/38b6b12d-d381-4ae3-87de-d92820228501)
 
