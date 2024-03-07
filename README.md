@@ -102,7 +102,12 @@ By following these subpoints, you systematically create, configure, and manage t
 
  ![Data_pipeline](https://github.com/pooja20-gurav/tokyo-olympic-azure-dataEngineering-project/assets/81917801/adee5482-06b1-48a9-9338-17a1ef9a75eb)
 
+
+ 
+
 11. After the pipeline completes its execution, navigate to your Azure Data Lake Storage Gen2. Dive into the "raw_data" folder and validate that the files, like "athletes.csv", "medals.csv", etc., are present and populated with the expected data.
+
+
 
 ![Raw_data](https://github.com/pooja20-gurav/tokyo-olympic-azure-dataEngineering-project/assets/81917801/c6b35d49-3190-4b3a-b990-91142ed2bcc3)
 
@@ -129,6 +134,9 @@ By following these subpoints, you systematically create, configure, and manage t
 
 7.Save Transformed Data:
 - After making your data better, save it back to ADLS. This way, your improved data is stored and ready to use.
+
+
+Example : https://github.com/pooja20-gurav/tokyo-olympic-azure-dataEngineering-project/blob/main/Tokyo%20Olympic%20Transformation.ipynb
 
 ![Transformed_daa](https://github.com/pooja20-gurav/tokyo-olympic-azure-dataEngineering-project/assets/81917801/bd580ce3-9113-48f7-bf2e-940634d3e659)
 
